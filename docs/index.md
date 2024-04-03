@@ -3,29 +3,29 @@
 layout: home
 
 hero:
-  name: "Yuque-VitePress"
-  text: "文档站点解决方案"
-  tagline: 语雀 + Elog + VitePress + GitHub Actions + Vercel 持续集成
+  name: "cc&dd's life"
+  text: "菜菜和丹丹的小窝"
+  tagline: 记录生活美好
   actions:
     - theme: brand
-      text: 快速开始
-      link: /docs/入门指引/快速开始
-    - theme: brand
-      text: 短路由示例
-      link: /docs-shorturl/ssuhngw0yb3dgkkg
+      text: 旅游
+      link: /docs/世界这么大，总要去看看/中国地理20大
+    # - theme: brand
+    #   text: 短路由示例
+    #   link: /docs-shorturl/ssuhngw0yb3dgkkg
     - theme: alt
-      text: GitHub
-      link: https://github.com/elog-x/yuque-vitepress
+      text: 三亚
+      link: https://www.douyin.com/user/self?modal_id=7225628514479918388&showTab=post
 
 features:
+  - icon: 💘
+    title: Developer && PM
+    details: 恰到好处的组合反应
   - icon: 📝
-    title: 语雀书写文档
-    details: 更好的在线写作体验，及时备份 markdown 文档到本地
-  - icon: 🚀
-    title: 持续集成
-    details: 结合语雀 Webhooks + Github Actions + Vercel，写完及时同步到文档站点
-  - icon: 📦
-    title: 开箱即用
-    details: 简单配置仓库即可部署属于你的文档站点
+    title: 啥都记下的小本本
+    details: 听说有人喜欢立目标，夸海口，立flag🙄
+  - icon: 🍉
+    title: 大大小小的碎片
+    details: 一天对线生活24h不能再多...
 ---
 
